@@ -1,0 +1,1 @@
+This resources folder is provided by the Course Tutor himself.
